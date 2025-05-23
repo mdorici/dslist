@@ -1,7 +1,8 @@
 
-## <div align="center">  Projeto DSList - Intensivão Java Spring  </div>
 
-<div align="center"><img src="" alt="drawing" height="200"/></div>
+<div align="center"><img src="https://github.com/mdorici/dslist/blob/main/doc/IJS.png" alt="drawing" height="200"/></div>
+
+## <div align="center">  Projeto DSList  </div>
 
 
 ## :computer: Descrição do projeto
@@ -31,7 +32,7 @@ O "Intensivão Java Spring" teve por objetivo a criação de um projeto de estud
  
 ## :chart_with_upwards_trend: Modelo conceitual
 
-<div align="center"><img src="" alt="drawing" height="400"/></div>
+<div align="center"><img src="https://github.com/mdorici/dslist/blob/main/doc/modelo.png" alt="drawing" height="400"/></div>
 
 ## :memo: Endepoints
 
@@ -52,7 +53,7 @@ O "Intensivão Java Spring" teve por objetivo a criação de um projeto de estud
 
 
 
-**Collection Postman:**
+**Collection Postman:** https://github.com/mdorici/dslist/blob/main/doc/DSList.postman_collection.json
 
 
 ## :rocket: Cronograma
